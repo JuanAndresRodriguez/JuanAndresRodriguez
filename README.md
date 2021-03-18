@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanAndresRodriguez
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, programming an AI in general
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, programming and AI in general
 - 🌱 I’m currently learning all of the above and more
 - 💞️ I’m looking to collaborate on any AI related project
 - 📫 How to reach me juan.rodriguezpedreira@gmail.com
